@@ -4,3 +4,7 @@ Making use of the [Boston House Prices data set](https://www.kaggle.com/vikrishn
 
  * simple linear regression
  * polynomial regression
+ * some more advanced algorithms
+   * Ridge regression
+   * Lasso regression
+   * Elastic Net
