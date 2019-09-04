@@ -1,10 +1,7 @@
-# Scikit-learn Tutorials
+# Scikit-learn exercises
 
-Making use of the [Boston House Prices data set](https://www.kaggle.com/vikrishnan/boston-house-prices) on some machine learning algorithms, using Python and scikit-learn.
+A few exercises using Python and machine learning algorithms written scikit-learn.
 
- * simple linear regression
- * some more advanced regression algorithms
-   * stochastic gradient descent
-   * Ridge regression
-   * Lasso regression
-   * Elastic Net
+ * `regression.ipynb`: Implements linear regression, stochastic gradient descent, Ridge and Lasso regression and Elastic Net using the [Boston House Prices data set](https://www.kaggle.com/vikrishnan/boston-house-prices)
+
+ *  `batch-gradient-descent.ipynb`: Implement Batch Gradient Descent with early stopping for Softmax Regression (without using Scikit-Learn). Notebook is `batch-gradient-descent.ipynb`.
