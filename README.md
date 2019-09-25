@@ -6,4 +6,4 @@ A few exercises using Python and machine learning algorithms written scikit-lear
 
  *  `batch-gradient-descent.ipynb`: Implement Batch Gradient Descent with early stopping for Softmax Regression (without using Scikit-Learn). Notebook is `batch-gradient-descent.ipynb`.
  
- * `svm-regressor`: implements an SVM rgressor on the California housing dats set.
+ * `svm-regressor`: Implements an SVM regressor on the California housing dats set.
