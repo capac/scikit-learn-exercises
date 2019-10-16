@@ -130,3 +130,5 @@ data/
 *.sav
 *.pkl
 
+# dask folders
+dask-worker-space/
