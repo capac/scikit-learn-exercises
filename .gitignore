@@ -132,3 +132,8 @@ data/
 
 # dask folders
 dask-worker-space/
+
+# Image files
+*.png
+*.jpg
+*.jpeg
