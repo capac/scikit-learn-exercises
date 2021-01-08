@@ -125,6 +125,7 @@ dmypy.json
 
 # data directories
 data/
+adult_income/
 
 # joblib model files
 *.sav
